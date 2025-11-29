@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+  margin-bottom: 40px;
+}
+h2 {
+  margin-top:70px;
+}
+</style>
+</head>
+<body>
+<h1>Margin Collapse</h1>
+<h2>Heading 2</h2>
+<p>In this example the h1 element has a bottom margin of 40px and
+     the h2 element has a top margin of 70px.
+      So, the vertical margin between h1 and h2
+       should have been 110px (40px + 70px).
+        However, due to margin collapse,
+         the actual margin ends up being 70px.
+</p>
+
+</body>
+</html>

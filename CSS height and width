@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div{
+                height: 250px;
+                width: 250px;
+               background-color: antiquewhite;
+               padding: 25px;
+             }
+        </style>
+    </head>
+<body>
+    <h2>EXAMPLE OF CSS HEIGHT AND WIDTH</h2>
+    <div>This element has height of 100 px and width of 50px.</div>
+</body>
+</html>

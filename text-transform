@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        p.uppercase{
+            text-transform: uppercase;
+        }
+        p.lowercase{
+            text-transform: lowercase;
+        }
+        p.capitalize{
+            text-transform: capitalize
+        }
+        div{
+            text-transform: capitalize;
+        }
+    </style>
+</head>
+<body>
+    <h1>Example of text transformation</h1>
+    <p class = "uppercase">This text is transformed to uppercase</p>
+    <p class = "lowercase">This text is transformed to lowercase</p>
+    <p class = "capitalize">Every charactor of each word in this line will be captalized,</p>
+    <div> Same will happen in this case, like the previous line.</div>
+</body>
+</html>

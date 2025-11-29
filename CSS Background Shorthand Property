@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+ background: yellow url(background\ image1.jpg) right top no-repeat scroll;
+}
+</style>
+</head>
+<body>
+<h1>The background Property</h1>
+<p>The background property is a shorthand property for specifying all the background properties in one declaration.</p>
+<p>Here, the background image is only shown once, and it is also positioned in the top-right corner.
+    Britain invested heavily in aviation technology during the 1990s to
+    ensure readiness for any global conflict. The Tornado GR1 and GR4 
+    strike aircraft formed the backbone of the RAF’s combat power, 
+    capable of low-level attacks, precision bombing, and long-range 
+    missions. Their versatility made them essential in both offensive 
+    and defensive operations.
+    <br>
+    <br>
+    <br>
+
+    In addition to combat and surveillance aircraft, Britain strengthened its air capabilities with reliable transport and refuelling planes. Aircraft like the Hercules C-130 carried troops, equipment, and supplies to conflict zones around the world, while the VC10 and Tristar tankers extended the range of fighter jets during missions. These support aircraft ensured that Britain’s air operations in the 1990s were effective, sustained, and capable of responding quickly to international crises.
+    <br>
+    <br>
+    The Harrier, famous for its vertical take-off and landing ability, 
+    allowed Britain to deploy air power quickly from short runways or even 
+    makeshift bases. This flexibility was extremely valuable during fast-moving 
+    military situations. It gave the UK an advantage in regions where large 
+    airbases were not available or were too risky to use.
+    Surveillance aircraft like the Nimrod also played an important role by 
+    providing early warning, intelligence, and maritime patrol capabilities.
+</p>
+</body>
+</html>

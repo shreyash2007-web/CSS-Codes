@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.normal {
+  border: 2px solid red;
+  padding: 5px;
+}
+p.round1 {
+  border: 2px solid red;
+  border-radius: 5px;
+  padding: 5px;
+}
+p.round2 {
+    border: 5px solid red;
+    border-radius: 10px;
+}
+</style>
+</head>
+<body>
+<h2>THE BORDER-RADIUS PROPERTY</html>
+    <p>This property is used to add 
+        rounded borders to an element.
+    </p>
+    <p class = "normal">This is normal border       
+    </p>
+    <p class = "round1">This is round border with the border radius of 5px.
+    </p>
+    <p class = "round2">This is round border with the border radius of 10px.
+    </p>
+</body>
+</html>

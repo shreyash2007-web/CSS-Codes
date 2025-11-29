@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p {
+  border-color: plum;
+  border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: double;
+  border-left-style: groove;
+}
+</style>
+</head>
+<body>
+<h2>Individual Border Sides</h2>
+<p>there are four different border styles used in this example.</p>
+</body>
+</html>

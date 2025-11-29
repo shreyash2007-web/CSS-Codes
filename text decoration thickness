@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #p1{
+                text-decoration-line: underline;
+                text-decoration-style: solid;
+                 text-decoration-thickness: auto; /** default **/
+            }
+            #p2{
+                text-decoration-line: underline;
+                text-decoration-style: double;
+                text-decoration-color: aqua;
+                text-decoration-thickness: 5px;
+            }
+             #p3{
+                text-decoration-line: underline;
+                text-decoration-style: dotted;
+                text-decoration-thickness: 10px;
+                }
+
+        </style>
+    </head>
+    <body>
+        <p id = "p1">here we are using solid(default) text decoration style.</p>
+        <p id = "p2">here we are using double text decoration  style. </p>
+        <p id = "p3">here we are using dotted text decoration  style. </p>
+    </body>
+</html>

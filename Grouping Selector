@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1,h2,p
+            {
+                text-align: center;
+                color: rebeccapurple;
+            }
+        </style>
+    </head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <p>This is a para used in an example of grouping selector</p>
+</body>
+</html>

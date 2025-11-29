@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.a{
+                font: italic small-caps bold 15px/20px Georgia,serif;
+
+            }
+/* 
+p.a {
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 10px;
+  font-family: Georgia, serif;
+}
+*/
+        </style>
+    </head>
+<body>
+    <h1>Font shorthand property</h1>
+    <p class = "a">This paragraph is used in an example of font shorthand property.</p>
+    <p class = "a">This paragraph is used in an example of font shorthand property.</p>
+</body>
+</html>
+
+<!-- Rules for the CSS Font Shorthand Property
+
+
+The font-size and font-family values are required.
+ If one of the other values is missing,
+  their default value are used.
+
+
+If defined, font-style, font-variant 
+and font-weight must precede font-size.
+
+
+If defined, line-height must immediately 
+follow font-size, preceded by "/", like
+this: 15px/30px.
+
+Font-family must be the last value specified. 
+-->

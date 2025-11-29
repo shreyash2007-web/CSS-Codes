@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-color: lightcoral;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Hellow World!</h1>
+        <p>This is an example of CSS background.</p>
+    </body>
+</html>

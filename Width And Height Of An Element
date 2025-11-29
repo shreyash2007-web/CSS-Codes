@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div{
+    width: 320px;
+    height: 50px;
+    padding: 10px;
+    border: 7px solid black;
+    margin: 0;
+}
+</style>
+</head>
+<body>
+    <h2>HEIGHT AND WIDTH OF AN ELEMENT</h2>
+    <img src = "background image 2.jpg" height = 80px width = 350px alt = "Image Unavailable">
+    <div>The picture above has height of 80px and width of 250px.
+        THE height of the element is 50px and width is also 250px.
+        Element height now = 80px.
+    </div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                font-size: 40px;
+            }
+            h2{
+                font-size: 3.5em;
+            }
+            p{
+                font-size: x-small;
+            }
+        </style>|
+    </head>
+    <body>
+        <h1>This is heading example</h1>
+        <h2>This is heading example</h2>
+        <p>This is another paragraph.</p>
+    </body>
+</html>
+        
+<!--some other predefined-->
+<!--xx-small-->
+<!--x-small--->
+<!--small----->
+<!--medium---->
+<!--large----->
+<!--x-large--->
+<!--xx-large-->

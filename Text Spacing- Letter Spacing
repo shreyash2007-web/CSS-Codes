@@ -1,0 +1,17 @@
+<!DoCTYPE html>
+<html>
+    <head>
+        <style>
+            h2{
+                letter-spacing: 5px;
+            }
+            h3{
+                letter-spacing: 1px;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>This is heading 1</h2>
+        <h3>This is heading 2</h3>
+    </body>
+</html>

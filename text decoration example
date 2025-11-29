@@ -1,0 +1,52 @@
+<!-- <!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                text-decoration-line: overline;
+            }
+             h2{
+                text-decoration-line: line-through;
+            }
+             h3{
+                text-decoration-line: underline;
+            }
+             h4{
+                text-decoration-line: overline underline;
+            }
+        </style>
+    </head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+</body>
+</html> -->
+
+
+<!--Shorthand property fofr all text decoration properties-->
+<!DOCTYPE <html>
+<html>
+    <head>
+        <style>
+            h1{
+                text-decoration: underline;
+            }
+            h2{
+                text-decoration: underline red;
+            }
+            h3{
+                text-decoration: underline red 5px;
+            }
+            h4{
+                text-decoration: underline blueviolet double 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Heading 1</h1>
+        <h2>Heading 2</h2>
+        <h3>Heading 3</h3>
+        <h4>Heading 4</h4>
+</html>

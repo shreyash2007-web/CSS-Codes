@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<hTML>
+    <head>
+    <style>
+        .header{
+                background-color: gray;
+                padding: 15px;
+                color:whitesmoke;
+                text-align: center;
+            }
+        .content{
+            background-color: wheat;
+            padding: 20px;
+            color: black
+        }
+        .footer{
+            background-color: beige;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+    </head>
+    <body>
+        <div class = "header">EXAMPLE OF USE OF DIV 
+            FOR GROUPING CONTENT INTO DIFFERENT BLOCKS
+        </div>
+        <div class = "content">This area of the program is the content section.
+             This is an example of div </div>
+        <div class = "footer">&copy; 2025 My Website Example</div>
+    </body>

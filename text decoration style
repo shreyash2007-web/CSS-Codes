@@ -1,0 +1,37 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #p1{
+                text-decoration-line: underline;
+                text-decoration-style: solid;
+            }
+            #p2{
+                text-decoration-line: underline;
+                text-decoration-style: double;
+                text-decoration-color: aqua;
+            }
+            #p3{
+                text-decoration-line: underline;
+                text-decoration-style: dotted;
+            }
+            #p4{
+                text-decoration-line: underline;
+                text-decoration-style: dashed;
+                text-decoration-color: goldenrod;
+            }
+            #p5{
+                text-decoration-line: underline;
+                text-decoration-style: wavy;
+                text-decoration-color: blueviolet;
+            }
+        </style>
+    </head>
+    <body>
+        <p id = "p1">here we are using solid(default) text decoration style.</p>
+        <p id = "p2">here we are using double text decoration  style. </p>
+        <p id = "p3">here we are using dotted text decoration style.</p>
+        <p id = "p4">here we are using dash text decoration style.</p>
+        <p id = "p5">here we are using wavy text decoration style.</p>
+    </body>
+</html>

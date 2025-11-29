@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.one{
+                border-style: solid;
+                border-width: 5px;
+            }
+            p.two{
+                border-style: inset;
+                border-width: medium;
+            }
+            p.three{
+                border-style: dotted;
+                border-width: thick;
+            }
+        </style>
+    </head>
+    <body>
+        <h2>CSS BORDER WIDTH EXAMPLE<H2>
+            <p class = "one">This property specifies the width of the border.
+            <p>
+            <p class = "two">This property specifies the width of the border.
+            </p>
+            <p class = "three">This property specifies the width of the border.
+            </p>
+        
+        </body>
+</html>

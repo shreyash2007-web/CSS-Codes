@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-color: lightgrey;
+                color: blue;
+            }
+            h1{
+                background-color: black;
+                color: white;
+            }
+            div{
+                background-color: blue;
+                color: white;
+            }
+        </style>
+    <body>
+        <h1>This is heading</h1>
+        <p>This is an example of how the background-color and text color is changed.</p>
+        <div>This is div </div>
+    </body>
+    </html>

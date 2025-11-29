@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.ex1{
+                border: 2px solid blue;
+                margin: 50px 80px 55px 50px;
+                background-color: beige;
+            }
+        </style>
+    </head>
+    <body>
+        <p class = "ex1">This is an example of
+             shirthand proerty of CSS margins.
+        </p>
+    </body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            div.ex1{
+                width: 400px;
+                background-color: blanchedalmond;
+            }
+            div.ex2{
+                width: 400px;
+                padding: 10px;
+                background-color: yellowgreen;
+            }
+        </style>
+    </head>
+<body>
+    <h2>Padding and element width</h2>
+    <div class = "ex1">This div has 300px of width.</div>
+    <br>
+    <br>
+    <div class = "ex2">This div has 300 px of length
+        and padding of 50px.</div>
+    </body>
+    </html>

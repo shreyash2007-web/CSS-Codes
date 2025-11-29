@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>EXAMPLE OF USE OF DIV AND SPAN</title>
+    <style>
+        .section{
+            background-color: violet;
+            border: 3px solid blue;
+            padding: 25px;
+            margin-bottom: 10px;
+        }
+        .highlight{
+            color: white;
+            background-color: aqua;
+            padding: 5px 8px;
+            border-radius: 5px;    
+        }
+        .emphasize{
+            color: rgb(64, 37, 2);
+            font-weight: 800px;
+        }
+    </style>
+    </head>
+    <body>
+        <div class = "section">
+            <h2>Student Information</h2>
+            <p> Name: <span class = "highlight">Shreyash<span></p>
+            <p>Department: <span class = "emphasize">Btech-CSE</span></p>
+            <P>Year: 1st</p>
+        </div>
+        <div class = "section">
+            <h2>Hobbies</h2>
+            <p>Hobbies are <span class = "highlight">Photography</span> , <span class = "highlight">Drawing</span> and <span class = "highlight">Travelling</span></p>
+
+
+
+

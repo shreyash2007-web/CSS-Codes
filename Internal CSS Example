@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body
+            {
+                background-color: greenyellow;
+            }
+            h1
+            {
+                color: brown;
+            }
+            p
+            {
+                color: purple;   
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Heading 1</h1>
+        <p>This is a para which is used in an example of internal CSS.</p>
+    </body>
+</html>

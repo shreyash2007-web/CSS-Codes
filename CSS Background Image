@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body{
+                background-image: url(background\ image1.jpg);
+                background-position: center;
+/* OTHER POSSIBLE VALUES FOR SETTING THE POSOTION OF BACKGROUND IMAGE
+left top
+left center
+left bottom
+right top
+right center
+right bottom
+center top
+enter center
+center bottom */
+                font-style: italic;
+                font-family: Georgia, serif;
+            }
+        </style>
+    </head>
+<body>
+    <h1>THE CHARTER PLANES OF GREAT BRITIAN</h1>
+    <p>The europian countries were way ahead in air forces in the 90s,
+    The advanced technologies and proffessional army caps made them one 
+    of the powerful nations in the world.Britain in the 1990s maintained 
+    a strong fleet of military aircraft for defence and international 
+    missions. The Royal Air Force operated advanced planes like the Tornado,
+     Harrier, and Jaguar, which were used for surveillance, bombing, and 
+     rapid response. These aircraft played key roles in conflicts such as 
+     the Gulf War and peacekeeping operations.<p>
+    </body>
+</html> 
+
+
+

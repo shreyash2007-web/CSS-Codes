@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.small{
+                line-height: 0.7;
+            }
+            p.big{
+                line-height: 1.5;
+            }
+        </style>
+    </head>
+    <body>
+            <p>This is the default line height which is used in browsers.</p>
+            <p class = "small">This is paragraph affected by line height.<br>
+                This is paragraph affected by line height.<br>
+            </p>
+            <p class = "large">This is paragraph affected by line height.<br>
+                This is paragraph affected by line height.<br>
+            </p>
+    </body>
+</html>

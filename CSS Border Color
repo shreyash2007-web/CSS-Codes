@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p.one {
+  border-style: solid;
+  border-color: rebeccapurple;
+}
+p.two {
+  border-style: solid;
+  border-color: greenyellow;
+} 
+p.three {
+  border-style: dotted;
+  border-color: violet;
+} 
+</style>
+</head>
+<body>
+<h2>THE BORDER COLOR PROPERTY</h2>
+<p>This property specifies the color of the four borders:</p>
+<p class="one">A solid rebeccapurple border</p>
+<p class="two">A solid greenyellow border</p>
+<p class="three">A dotted voilet border</p>
+</body>
+</html>

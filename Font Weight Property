@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.normal{
+                font-weight: normal;
+            }
+            p.light{
+                font-weight: light;
+            }
+            p.thick{
+                font-weight: bold;
+            }
+            p.thicker{
+                font-weight: 900;
+            }
+        </style>
+    </head>
+
+    <body>
+        <h1>The font-weight property</h1>
+        <p class = "normal">This is a normal text.</p>
+        <p class = "light">This is a light text.</p>
+        <p class = "thick">This is a thick text.</p>
+        <p class = "thicker">This is a thicker text.<p>
+    </body>
+</html>
+

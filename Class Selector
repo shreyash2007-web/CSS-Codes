@@ -1,0 +1,38 @@
+<!-- <!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .center{
+                text-align: left;
+                color: rgb(24, 142, 246);
+            }
+        </style>
+    </head>
+    |<body>
+        <h1 class = "center">Centered Heading</h1>
+        <p class = "center">This is an example of class selector</p> 
+    </body>
+</html> -->
+
+<hr>
+<hr>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            p.center{
+                text-align: center;
+                color:rgb(116, 53, 5);
+            }
+            p.large
+            {
+                font-size: 50px;
+                color:rgb(24, 142, 246)
+            }
+        </style>
+    </head>
+    <body>
+        <h1 class = "center">This will not be affected because this class was not selected.</h1>
+        <p class = "center">This will be affected because this class was selected with a (.) followed by the class name.</p>
+        <p class = "center large">This is an example of class selector.</p>
